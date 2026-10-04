@@ -1,14 +1,14 @@
 ﻿# QuickNotes-Website
 ## Setup
 ### Prerequisites
-  * Node.js => Version >= 18.0
+  * Node.js >= 22.12.0
   * install dependencies
     ```
     npm install
     ```
 ### Clone the Repository:
 ```
-  git clone <HERE COMES THE URL>
+  git clone https://github.com/JakobPronebnerMCT/QuickNotes.git
 ```
 ### Run Developer Server
 ```
